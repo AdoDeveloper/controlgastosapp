@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328954251677",
+    "project_id": "loginapp-e6d37",
+    "storage_bucket": "loginapp-e6d37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328954251677:android:d8ac99fcb290b878444774",
+        "android_client_info": {
+          "package_name": "com.adolfo.controlgastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328954251677-md1fg8hou79hi2i0cl90i2loseacttjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adolfo.controlgastos",
+            "certificate_hash": "5e9bc7167f59c77141e5796c6cca550fcadb5ba7"
+          }
+        },
+        {
+          "client_id": "328954251677-k1nuud8ule73399jqr9hofl1a9mrsqvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKje-fr2vYP2I0EgkAOIraeBuavWaQg8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328954251677-k1nuud8ule73399jqr9hofl1a9mrsqvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

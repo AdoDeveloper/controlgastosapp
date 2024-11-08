@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Control De Gastos</string>
+    <string name="default_web_client_id" translatable="false">TU_ID_DE_CLIENTE_WEB</string>
+    <string name="t_tulo_del_presupuesto">Título del presupuesto</string>
+    <string name="monto_presupuesto">Monto presupuesto</string>
+    <string name="guardar">Guardar</string>
+    <string name="crear_presupuesto">CREAR PRESUPUESTO</string>
+    <string name="mi_compras">Mi compras</string>
+    <string name="reg_strese">Regístrese</string>
+    <string name="no_tiene_una_cuenta">No tiene una cuenta?</string>
+    <string name="login">Login</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="mis_presupuestos">Mis Presupuestos</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="iniciar_sesi_n_con_google">Iniciar sesión con Google</string>
+</resources>
